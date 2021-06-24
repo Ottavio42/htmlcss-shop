@@ -34,7 +34,7 @@
 }
 
 
-.sostenibilita,.sconto{
+.sostenibilita,.sconto,.sostenibilita2{
     color: #ffffff;
     text-align: center;
     padding: 5px;
@@ -50,4 +50,9 @@
     background-color: #00875a;
     bottom: 85px;
     left: 50px;
+}
+.sostenibilita2{
+    background-color: #00875a;
+    bottom: 85px;
+
 }
