@@ -56,3 +56,15 @@
     bottom: 85px;
 
 }
+.img-prodotto2 {
+    display: none;
+    width: 100%;
+}
+.img {
+}
+.img:hover .img-prodotto {
+   display: none;
+}
+.img:hover .img-prodotto2 {
+   display: inline-block;
+}
